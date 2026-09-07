@@ -1,0 +1,279 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    
+}
+.img{
+    width: 10px;
+    height: 10px;
+}
+.container{
+    background-color: #1a4fd8;
+    color: white;
+    padding: 20px ;
+    font-size: 20px;
+    font-weight: 500;
+}
+.d1{
+    background-color: #e8f5fb;
+    color: #333;
+    padding: 15px;
+    font-size: 14px; 
+    border-bottom: 1px solid #d6e7f2;
+}
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 1px;
+    
+}
+.menu-list{
+    display: flex;
+    gap: 140px;
+}
+.left-container{
+    color: black;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    width: 850px;
+}
+.left{
+    color: black;
+    font-size: 28px;
+    width: 600px;
+    
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+
+}
+.hero-contain{
+    align-items: center;
+    gap: 30px;
+    padding: 30px;
+    display: flex;
+    background-color: skyblue;
+    gap: 70px;
+    color: black;
+    
+    
+}
+.contain{
+    width: 350px;
+    background-color:white;
+    padding: 20px;
+    border-radius: 16px;
+    gap: 70px;
+    
+}
+.parent-image{
+    width: 300px;
+}
+.web{
+    font-size: 28px;
+    
+}
+.wed{
+    font-size: 18px;
+    width: 350px;
+}
+.sad{
+    font-size: 13px;
+    padding: 5px; 
+    margin-left: 90px;
+    color: blue;
+    border: 2px solid blue;
+    border-radius: 500px;
+}.date{
+    font-size: 50px;
+}
+.cover{
+    font-size: 18px;
+    width: 900px;
+}
+.bag{
+    margin-left: 1100px;
+    font-size: 20px;
+    color: #1a4fd8;
+    border: 2px solid blue;
+    padding: 10px;
+    border-radius: 500px;
+}
+/* .ball-contain{
+    background-color: skyblue;
+} */
+
+
+    
+
+.d7{
+    display: flex;
+    background-color: #f5f6f8;
+    gap: 25px;
+    padding: 40px;
+    width: 100%;
+    gap: 25px;
+    align-items: center;
+}
+.d7 h3{
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 400px;
+    padding: 25px;
+    margin-left: 100px;
+}
+h8{
+    background-color: white;
+    border-radius: 18px;
+    /* text-align: center; */
+    padding: 30px;
+    width: 550px;
+    align-items: center;
+    /* color: white; */
+}
+.d7 p{
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 300px;
+    width: 350px;
+}
+.bd{
+    font-size: 20px;
+    margin-left: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    border-radius: 600px;
+}
+.mum h3{
+    font-size: 50px;
+}
+.mum p{
+    font-size: 17px;
+    width: 850px;
+}
+.start{
+    margin-left: 1100px;
+    font-size: 20px;
+    color: blue;
+    border: 2px solid blue;
+    padding: 10px;
+    border-radius: 500px;
+    top: 450px;
+}
+.daddy{
+    align-items: center;
+    gap: 30px;
+    padding: 30px;
+    display: flex;
+    background-color: white ;
+    gap: 75px;
+    color: black;
+    
+}
+.sayy{
+    font-size: 13px;
+    color: blue;
+}
+.okay{
+    font-size: 28px;
+    margin-left: 20px;
+}
+.little{
+    width: 300px;
+}
+.light{
+    font-size: 16px;
+    width: 300px;
+}
+.dad-3{
+    width: 350px;
+    background-color:powderblue;
+    padding: 20px;
+    border-radius: 16px;
+    gap: 70px;
+    
+}
+.type{
+    font-size: 20px;
+    margin-left: 56px;
+    padding: 5px;
+    border-radius: 400px;
+    width: 170px;
+    border: 1.5px solid blue;
+}
+.banner{
+    background: #eef3f7;
+    border-radius: 30px;
+    padding: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+.banner-text{
+    width: 60%;
+}
+.banner-text h3{
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+}
+.banner-text p{
+    color: #666;
+    font-size: 18px;
+    line-height: 1.7;
+    margin-bottom: 35px;
+    width: 950px;
+}
+.banner button{
+    padding: 14px 40px;
+    border: 2px solid #8c8c8c;
+    border-radius: 50px;
+    background: white;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 400px;
+}
+.banner button:hover{
+    background: #ddd;
+}
+.image{
+    width: 230px;
+    margin-left: 40px;
+    
+}
+.baseline{
+    display: flex;
+    background-color: white;
+    padding: 70px;
+    border-radius: 2px solid white;
+}
+.baseline h2{
+    font-size: 30px;
+}
+.baseline p{
+    font-size: 20px;
+    width: 350px;
+}
+.baseline button{
+    padding: 10px 25px;
+    border-radius: 60px;
+    border: 2px solid blue;
+    background-color: white;
+    margin-left: 50px;
+}
+.saop{
+    font-size: 5000px;
+    
+}
+
+
